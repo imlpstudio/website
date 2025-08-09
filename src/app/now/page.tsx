@@ -6,10 +6,10 @@ export default function NowPage() {
       <Navbar />
       <section className="container-px max-w-4xl mx-auto py-16">
         <h1 className="text-4xl sm:text-5xl font-bold tracking-tight mb-6">
-          What I'm Working on Now
+          What I&apos;m Working on Now
         </h1>
         <p className="text-lg text-neutral-700 mb-12">
-          A living page where I share what I’m currently building, exploring, and learning.
+          A living page where I share what I&apos;m currently building, exploring, and learning.
         </p>
 
         <div className="space-y-8">
